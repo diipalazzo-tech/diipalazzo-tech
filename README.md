@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=760&lines=QA+%7C+Testes+Manuais+e+Automatizados;Testes+de+API+%7C+Postman+%7C+Swagger;C%23+%2F+.NET+%7C+JavaScript;Qualidade+aplicada+a+solu%C3%A7%C3%B5es+IoT+e+Controle+de+Acesso" alt="Typing SVG" />
 
+
 <br/>
 
 ![QA](https://img.shields.io/badge/Quality%20Assurance-Software%20Testing-0f766e?style=flat-square&labelColor=0b1220)
