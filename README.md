@@ -20,11 +20,6 @@
   <img src="https://img.shields.io/badge/Email-Contato-0f766e?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=diipalazzo-tech&color=0f766e&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/diipalazzo-tech?color=16a34a&style=flat-square&label=Followers)
-
 </div>
 
 ---
@@ -115,45 +110,6 @@ No dia a dia, busco transformar requisitos e regras de negócio em **cenários c
 
 ---
 
-## 📋 Minha rotina de QA
-
-- 🧠 Análise de requisitos, regras de negócio e critérios de aceite
-- 🧪 Criação e execução de cenários e casos de teste
-- 🐞 Registro de bugs com evidências e passos para reprodução
-- 🔄 Retestes após correções
-- 🔁 Execução de testes regressivos
-- 🌐 Validação de APIs utilizando **Postman** e **Swagger**
-- 📚 Consulta e manutenção de documentação técnica no **GitBook**
-- 📌 Gestão e acompanhamento de atividades pelo **Azure DevOps**
-- 💻 Apoio na implementação e evolução de testes com **C#/.NET** e **JavaScript**
-- 📡 Validação de integrações entre aplicações e dispositivos de **controle de acesso / IoT**
-
----
-
-## 🔐 QA em projetos de Controle de Acesso & IoT
-
-Uma parte importante da minha atuação está em sistemas nos quais o software precisa conversar corretamente com dispositivos e serviços externos.
-
-Isso envolve validar cenários como:
-
-```text
-Usuário / Credencial
-        ↓
-Aplicação
-        ↓
-API / Backend
-        ↓
-Controladora / Dispositivo IoT
-        ↓
-Evento de acesso
-        ↓
-Monitoramento / Histórico
-```
-
-Nesses projetos, além da interface, é importante validar a **consistência dos dados entre camadas**, o comportamento das integrações e o impacto de cada alteração nos fluxos já existentes.
-
----
-
 ## 🚀 Atualmente aprimorando
 
 ```yaml
@@ -168,8 +124,6 @@ development:
   - JavaScript
 
 domain:
-  - IoT
-  - Controle de acesso
   - Integração entre hardware e software
 ```
 
@@ -185,11 +139,7 @@ domain:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diipalazzo-tech&layout=compact&hide_border=true&bg_color=0b1220&title_color=34d399&text_color=e5e7eb" width="49%"/>
-
 </div>
-
-> 💼 Grande parte da minha atuação profissional está relacionada a projetos privados. Por isso, as estatísticas públicas do GitHub não representam toda a minha experiência ou volume de atividades.
 
 ---
 
